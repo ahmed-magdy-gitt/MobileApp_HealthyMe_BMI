@@ -49,10 +49,7 @@ Built with modern Android development standards:
 
 | Input Screen | Result Screen (Normal) | Result Screen (Warning) |
 | :---: | :---: | :---: |
-| ![WhatsApp Image 2025-12-19 at 11 21 52_1d08c1b7](https://github.com/user-attachments/assets/e51af659-b313-4ef9-8563-bc67a4687dfc)
-  |                    ![WhatsApp Image 2025-12-19 at 11 21 52_9f00cad2](https://github.com/user-attachments/assets/ff2df0ee-05dc-4387-b7cc-b16b19bb0483)
-|       ![WhatsApp Image 2025-12-19 at 11 21 52_1b8572f0](https://github.com/user-attachments/assets/048d640b-ae30-4a7a-b433-ac1b1eccc31d)
-       |
+| ![WhatsApp Image 2025-12-19 at 11 21 52_1d08c1b7](https://github.com/user-attachments/assets/e51af659-b313-4ef9-8563-bc67a4687dfc)|![WhatsApp Image 2025-12-19 at 11 21 52_9f00cad2](https://github.com/user-attachments/assets/ff2df0ee-05dc-4387-b7cc-b16b19bb0483)|![WhatsApp Image 2025-12-19 at 11 21 52_1b8572f0](https://github.com/user-attachments/assets/048d640b-ae30-4a7a-b433-ac1b1eccc31d)|
 
 > *Note: The app features entrance animations that fade and slide elements into view for a premium user experience.*
 
